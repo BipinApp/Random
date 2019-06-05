@@ -1,0 +1,16 @@
+// Niger1 ROI corner coordinates used by Optimal Region
+//3%Temporal Spatial and Spectral
+// Coordinate values are sample, then line
+// Order:
+// upper left corner
+// upper right corner
+// lower left corner
+// lower right corner
+// NOTE:  coordinates are assumed/expected to
+//        be in same projection units as
+//        image corners
+592765 2204724
+608282 2205172
+592765 2191760
+608282 2191760
+
